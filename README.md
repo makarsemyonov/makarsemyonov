@@ -1,8 +1,8 @@
 <h1 align="center">Hello there, I'm <a href="https://t.me/makarsemyonov2" target="_blank">Makar Semyonov :space_invader:</a></h1>
 <h3 align="center">Computer security & science student</h3>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=150&size=15&pause=1000&color=1FF710&center=true&random=false&width=435&lines=Welcome+to+my+Github!" alt="Typing SVG" /></a></p>
-![](https://komarev.com/ghpvc/?username=GhostOfVitebsk)
 
+![](https://komarev.com/ghpvc/?username=GhostOfVitebsk)
 
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
