@@ -1,7 +1,6 @@
-<h1 align="center">Hello there, I'm <a href="https://t.me/makarsemyonov2" target="_blank">Makar Semyonov</a></h1>
+<h1 align="center">Hello there, I'm <a href="https://t.me/makarsemyonov2" target="_blank">Makar Semyonov :space_invader:</a></h1>
 <h3 align="center">Computer security & science student</h3>
-
-
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=150&size=15&pause=1000&color=1FF710&center=true&random=false&width=435&lines=Welcome+to+my+Github!" alt="Typing SVG" /></a></p>
 ![](https://komarev.com/ghpvc/?username=GhostOfVitebsk)
 
 
@@ -17,9 +16,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GhostOfVitebsk&title=Stars,Followers,Commits&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Stats from public repositories
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=GhostOfVitebsk&theme=onedark&hide=contribs,prs,issues&hide_rank=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GhostOfVitebsk&theme=onedark&layout=compact&langs_count=8&card_width=320" />
 </a>
+
